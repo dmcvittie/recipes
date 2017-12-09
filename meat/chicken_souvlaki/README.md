@@ -10,7 +10,7 @@
 - 1.5 teaspoons of salt
 - 0.5 teaspoons of black pepper
 - 2 cloves of garlic, minced
-- Metak ir wood skewers
+- Metal or wood skewers
 
 ## Directions
 
