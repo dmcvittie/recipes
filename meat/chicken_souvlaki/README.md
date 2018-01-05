@@ -9,7 +9,7 @@
 - 2 teaspoons of dried greek oregano (plus more for post-marinade)
 - 1.5 teaspoons of salt
 - 0.5 teaspoons of black pepper
-- 2 cloves of garlic, minced
+- 3 cloves of garlic, minced
 - Metal or wood skewers
 
 ## Directions
@@ -22,5 +22,6 @@
 ### Prep + Cooking (25 minutes)
 0. If using wood skewers, soak for 1 hr in warm water so they won’t burn on the grill.
 1. Thread the chicken onto the skewers; about 4-5 inches of chicken per skewer at most.
-2. Cook on the grill for 12-15 minutes until no longer pink and juices run clear, turning every couple of minutes to achieve desired level of char.
+2. Shake oregano onto skewers prior to grilling.
+3. Cook on the grill for 12-15 minutes until no longer pink and juices run clear, turning every couple of minutes to achieve desired level of char.
 
