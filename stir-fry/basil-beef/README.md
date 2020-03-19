@@ -8,6 +8,7 @@
 - One carrot, cut into medallions
 - 7 cloves of garlic, minced
 - 1 Tbsp of fresh ginger, grated
+- 1/2 cup of brown sugar
 - 4 Tbsp of fish sauce
 - 12 Tbsp of low sodium soy sauce
 - 2 Tbsp of oyster sauce
@@ -22,7 +23,7 @@
 ## Directions
 
 ### Sauce
-1. Combine the fish sauce, soy sauce, oyster sauce, garlic chili paste, water and cornstarch in a bowl
+1. Combine the fish sauce, soy sauce, oyster sauce, garlic chili paste, water, brown sugar and cornstarch in a bowl
 2. Stir to combine and set aside
 
 ### Cooking
