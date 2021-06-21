@@ -7,7 +7,7 @@
 - 3 tablespoons of red wine
 - 2 teaspoons of coriander seeds (ground)
 - 2 teaspoons of dried greek oregano (plus more for post-marinade)
-- 1.5 teaspoons of salt
+- 0.5 teaspoons of salt (possibly more if being used in a wrap/sandwich)
 - 0.5 teaspoons of black pepper
 - 3 cloves of garlic, minced
 - Metal or wood skewers
