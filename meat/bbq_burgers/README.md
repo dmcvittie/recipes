@@ -5,6 +5,7 @@
 - 1/4 cup of salt
 - 1/4 cup of ground black pepper
 - 1/4 cup of garlic
+  å
   Note: These amounts can vary based on your preference. I tend to use a little less salt because that's what my family prefers.
 
 ### Instructions:
