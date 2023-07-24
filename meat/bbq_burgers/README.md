@@ -1,25 +1,27 @@
-Here is my recipe for traditional grilled hamburgers:
+# Traditional Grilled Hamburgers
 
-AP seasoning recipe:
+## AP Seasoning Recipe:
 
-1. 1/4 cup of salt
-2. 1/4 cup of ground black pepper
-3. 1/4 cup of garlic
-   Note: These amounts can vary based on your preference. I tend to use a little less salt because that's what my family prefers.
+- 1/4 cup of salt
+- 1/4 cup of ground black pepper
+- 1/4 cup of garlic
+  Note: These amounts can vary based on your preference. I tend to use a little less salt because that's what my family prefers.
 
-4. Mix salt, pepper, and garlic in a shaker bottle.
-5. Shake thoroughly to combine.
+### Instructions:
 
-Burger recipe:
+1. Mix salt, pepper, and garlic in a shaker bottle.
+2. Shake thoroughly to combine.
 
-1. Medium ground beef -- 0.25 lbs or 4 ounces per patty. Or make bigger patties if you like!
-2. 1 shaker Montreal Steak Spice
-3. 1 shaker AP seasoning
-4. Brioche buns
-5. Parchment paper squares
-6. (Optional) Cheese
+## Burger Recipe:
 
-Patty construction:
+- Medium ground beef -- 0.25 lbs or 4 ounces per patty or more if you like
+- 1 shaker Montreal Steak Spice
+- 1 shaker AP seasoning
+- Brioche buns
+- Parchment paper squares
+- (Optional) Cheese
+
+### Patty Construction:
 
 1. Cover two plates with plastic wrap -- one covered on the normal eating side, one covered on the bottom of the plate. These will be used to press your burgers.
 2. Place a parchment square on the bottom plate.
@@ -31,7 +33,7 @@ Patty construction:
 8. Apply a coating of the AP rub to desired seasoning.
 9. Set aside and keep in the fridge (with the bottom parchment still attached) until it's time to grill.
 
-Grilling:
+## Grilling:
 
 1. Scrape and clean your grill grates so there is no leftover food or gunk from previous grilling.
 2. Preheat your grill for 10-20 minutes on medium heat until the grill grates are very hot and will retain a lot of heat. If you have a larger grate, this step is important to get good grill marks.
