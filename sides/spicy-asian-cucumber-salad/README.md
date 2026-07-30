@@ -17,8 +17,8 @@
 ### Cucumbers
 1. Smash the cucumbers with the flat side of a knife or a rolling pin until they crack and split.
 2. Cut the smashed cucumbers into bite-sized pieces.
-3. Toss the cucumbers with the salt and sugar in a colander or bowl and let them drain for 15-20 minutes. This pulls out excess water so the dressing doesn't get diluted.
-4. Give the cucumbers a quick rinse to knock off excess salt and pat dry with a paper towel. Wash and dry the bowl too so there's no residual salt water or residue left in it.
+3. Toss the cucumbers with the salt and sugar in a bowl and let them sit for 15-20 minutes while the water gets pulled out. This keeps the dressing from getting diluted.
+4. Once the cucumbers are done giving up their water, transfer them to a mesh sieve, give them a quick rinse to knock off excess salt and pat dry with a paper towel. Wash and dry the bowl too so there's no residual salt water or residue left in it.
 
 ### Dressing
 1. Combine the garlic, rice vinegar, soy sauce, sesame oil and chili crisp (or birdseye chilis) in a bowl.
