@@ -10,10 +10,10 @@
 - 1 Tbsp of fresh ginger, grated
 - 1/4 cup of brown sugar
 - 2 Tbsp of fish sauce
-- 1/4 cup + 2 Tbsp (6 Tbsp) of low sodium soy sauce
+- 3/8 cup (6 Tbsp) of low sodium soy sauce
 - 1 Tbsp of oyster sauce
 - 1-2 Tbsp of garlic chili paste (more or less depending on how spicy you want it)
-- 1/4 cup + 2 Tbsp (6 Tbsp) water (if you have low sodium beef broth available, swap out 1/4 cup of the water for the broth)
+- 3/8 cup (6 Tbsp) water (if you have low sodium beef broth available, swap out 1/4 cup of the water for the broth)
 - 1-2 Tsp of cornstarch, mixed with 1 Tbsp of cold water (slurry, kept separate from the sauce)
 - 1 cup of Thai basil leaves, picked from the stems
 - 1-2 Thai chilis, diced (optional, very spicy)
