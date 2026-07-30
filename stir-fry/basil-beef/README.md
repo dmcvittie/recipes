@@ -17,7 +17,7 @@
 - 1-2 Tsp of cornstarch, mixed with 1 Tbsp of cold water (slurry, kept separate from the sauce)
 - 1 cup of Thai basil leaves, picked from the stems
 - 1-2 Thai chilis, diced (optional, very spicy)
-- 2 Tbsp of vegetable oil
+- Vegetable oil (only if needed to top up the rendered beef fat)
 - 1 green onion (for garnish)
 
 ## Directions
@@ -30,8 +30,8 @@
 ### Cooking
 1. Add the ground beef to a pan on medium-high heat, breaking it up into small pieces as it cooks.
 2. Continue cooking past the point where the beef is cooked through, until the liquid it releases has evaporated and the beef starts to fry and brown in its own rendered fat. About 8-10 minutes total.
-3. Remove the beef from the pan, draining off any excess grease. Reserve the beef until vegetables are cooked.
-4. Heat 2 Tbsp of oil in the same pan you cooked the beef in.
+3. Remove the beef from the pan, leaving about 2 Tbsp of the rendered beef fat in the pan and draining off anything beyond that. Reserve the beef until vegetables are cooked.
+4. Return the pan to medium-high heat. If the beef didn't render enough fat, top it up with vegetable oil.
 5. Add garlic, ginger and (optional) Thai chilis and cook for a minute or two.
 6. Add onions to the pan, mixing to coat the onions in oil/aromatics. Cook for 2 minutes.
 7. Add peppers and carrots to the pan and mix again. Cook for another few minutes until the vegetables are almost cooked to your liking.
