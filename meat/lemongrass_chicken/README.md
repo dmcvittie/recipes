@@ -2,6 +2,8 @@
 
 This recipe is for a traditional Vietnamese Bun dish (salad bowl), but the chicken also goes great on a banh mi sandwich!
 
+Serve with [Do Chua (pickled carrot and daikon)](../../sides/do-chua/README.md) on the side. For a bigger batch of sauce than the one below, see the standalone [Nuoc Cham](../../sides/nuoc-cham/README.md) recipe.
+
 ## Nuoc Cham Sauce
 
 - 1 tablespoon lime juice
